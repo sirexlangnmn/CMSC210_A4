@@ -1,0 +1,151 @@
+Gender,Age,OccupationType,CaffeineConsumption,SmokingHabit,AlcoholConsumption,SleepingEnvironment,AveSleep,"  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ","  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ","How many times do you wake up during the night?  (e.g., number from 0-5) ",ExerciseFrequency,StressLevel,UseOfDevice,SleepQuality
+Male,52,Office Worker,Yes,No,Yes,Quiet,7,23,6,0,3,Medium (3 - 4),Often,Good
+Male,47,Office Worker,Yes,No,Yes,Quiet,8,22,6.3,2,3,Low (1 - 2),Often,Good
+Male,44,Office Worker,Yes,No,Yes,Moderate Noise,6,1,7,1,3,Medium (3 - 4),Often,Average
+Female,41,Office Worker,Yes,No,No,Quiet,8,20,5,2,0,Low (1 - 2),Always,Good
+Male,40,Office Worker,No,No,Yes,Moderate Noise,7,22,5,0,3,Low (1 - 2),Always,Good
+Female,43,Office Worker,Yes,No,No,Quiet,6,23,5,0,1,High (5 - 6),Often,Average
+Male,32,Office Worker,No,No,Yes,Quiet,6,22,5,1,3,Medium (3 - 4),Sometimes,Good
+Male,42,Self-Employed,Yes,No,Yes,Quiet,8,19,4,2,2,Low (1 - 2),Always,Average
+Female,50,Office Worker,No,No,No,Quiet,6,11,7,2,1,Medium (3 - 4),Often,Good
+Male,41,Self-Employed,Yes,No,Yes,Moderate Noise,6,20,1,1,1,Medium (3 - 4),Always,Average
+Male,38,Office Worker,Yes,No,Yes,Moderate Noise,7,23,6,1,3,Low (1 - 2),Often,Good
+Male,36,Office Worker,Yes,No,Yes,Quiet,6,23,6,0,1,Medium (3 - 4),Always,Good
+Male,40,Office Worker,Yes,No,Yes,Quiet,5,2,7,1,1,Medium (3 - 4),Always,Average
+Male,34,Office Worker,Yes,No,Yes,Moderate Noise,7,23,7,2,2,Medium (3 - 4),Always,Average
+Female,29,Office Worker,Yes,No,No,Quiet,5,5,22,2,0,Medium (3 - 4),Always,Poor
+Female,19,Student,No,No,No,Moderate Noise,8,22,6,1,1,Medium (3 - 4),Always,Poor
+Female,58,Office Worker,Yes,No,No,Quiet,6,22,5,2,2,Medium (3 - 4),Often,Average
+Female,57,Retired,Yes,No,No,Quiet,7,12,7,2,3,Low (1 - 2),Always,Average
+Male,39,Office Worker,Yes,No,Yes,Quiet,5,23,5.3,1,5,Medium (3 - 4),Always,Good
+Female,42,Shift Worker,Yes,No,No,Moderate Noise,5,20,0,3,2,Medium (3 - 4),Often,Average
+Male,26,Office Worker,No,No,No,Moderate Noise,9,21,6,2,5,Medium (3 - 4),Always,Good
+Male,57,Self-Employed,No,No,No,Moderate Noise,5,23,5,3,3,Medium (3 - 4),Often,Average
+Female,27,Office Worker,Yes,No,Yes,Quiet,6,2,8,0,3,Medium (3 - 4),Often,Average
+Male,53,Office Worker,Yes,No,Yes,Quiet,7,11,6,3,6,Medium (3 - 4),Always,Average
+Male,25,Office Worker,Yes,No,Yes,Noisy,7,0,7,2,1,Medium (3 - 4),Always,Average
+Male,41,Office Worker,Yes,No,Yes,Moderate Noise,5,20,3,5,2,Medium (3 - 4),Sometimes,Average
+Female,32,Office Worker,No,No,No,Moderate Noise,7,23,6,0,2,Medium (3 - 4),Often,Average
+Male,41,Office Worker,No,No,No,Quiet,7,21,4,2,1,Medium (3 - 4),Always,Average
+Male,50,Retired,Yes,Yes,Yes,Quiet,8,23,6,1,3,Medium (3 - 4),Sometimes,Good
+Female,41,Self-Employed,Yes,No,No,Moderate Noise,6,23,5,1,3,Medium (3 - 4),Often,Good
+Female,39,Office Worker,Yes,No,Yes,Quiet,7,22,5,1,0,Medium (3 - 4),Always,Good
+Female,28,Office Worker,Yes,No,No,Moderate Noise,6,23,8,2,2,Medium (3 - 4),Often,Average
+Female,58,Office Worker,No,No,No,Quiet,5,22,5,2,5,Medium (3 - 4),Often,Good
+Male,54,Retired,Yes,No,No,Moderate Noise,6,22,5,2,2,Low (1 - 2),Always,Average
+Male,47,Office Worker,No,No,No,Moderate Noise,6,22,4,1,0,Medium (3 - 4),Often,Average
+Male,34,Office Worker,Yes,No,No,Quiet,9,23,8,1,0,High (5 - 6),Always,Good
+Male,67,Retired,Yes,No,No,Moderate Noise,4,22,3,4,4,Medium (3 - 4),Often,Average
+Female,17,Student,No,No,No,Moderate Noise,7,23,22,3,0,Medium (3 - 4),Always,Average
+Female,31,Office Worker,No,No,Yes,Quiet,7,22,6,1,2,Medium (3 - 4),Often,Average
+Female,30,Retired,Yes,No,Yes,Quiet,7,24,8,2,0,Medium (3 - 4),Always,Average
+Male,53,Office Worker,Yes,Yes,Yes,Moderate Noise,7,22,7,1,2,Medium (3 - 4),Sometimes,Average
+Female,43,Office Worker,Yes,No,No,Quiet,8,2130,5.3,0,5,Low (1 - 2),Often,Good
+Female,54,Retired,Yes,No,No,Quiet,8,21,6,1,5,Medium (3 - 4),Always,Good
+Female,32,Self-Employed,Yes,No,No,Moderate Noise,7,23,6,2,0,Medium (3 - 4),Always,Good
+Female,32,Retired,Yes,No,No,Quiet,7,24,8,4,0,Medium (3 - 4),Always,Good
+Female,19,Shift Worker,Yes,Yes,Yes,Moderate Noise,6,0,9,2,1,High (5 - 6),Always,Good
+Female,58,Retired,Yes,No,No,Quiet,8,23,7,0,2,Medium (3 - 4),Often,Good
+Female,44,Office Worker,Yes,Yes,No,Moderate Noise,6,22,5,2,0,High (5 - 6),Often,Good
+Female,25,Office Worker,Yes,No,No,Quiet,5,23,7,1,1,Medium (3 - 4),Always,Good
+Female,39,Office Worker,No,No,Yes,Moderate Noise,5,11,18,0,0,High (5 - 6),Always,Poor
+Female,36,Office Worker,Yes,No,Yes,Quiet,6,23,5,2,4,Low (1 - 2),Sometimes,Good
+Male,66,Retired,Yes,No,Yes,Moderate Noise,4,22,3,4,4,Medium (3 - 4),Always,Average
+Male,27,Self-Employed,No,No,Yes,Quiet,8,13,9,2,1,Medium (3 - 4),Always,Good
+Female,30,Self-Employed,No,No,No,Quiet,6,23,9,2,1,High (5 - 6),Always,Poor
+Female,53,Self-Employed,Yes,No,No,Quiet,6,23,5,1,0,Very High (7+),Always,Poor
+Male,28,Office Worker,Yes,Yes,Yes,Moderate Noise,6,11,17,0,0,Low (1 - 2),Always,Good
+Female,38,Office Worker,Yes,No,Yes,Moderate Noise,6,22,7,3,5,Medium (3 - 4),Always,Average
+Male,34,Self-Employed,Yes,No,No,Moderate Noise,5,0,6,2,1,Very High (7+),Always,Average
+Female,30,Office Worker,Yes,No,No,Moderate Noise,7,11,18,2,7,Medium (3 - 4),Always,Good
+Female,43,Self-Employed,Yes,Yes,Yes,Quiet,8,1,4,2,1,Very High (7+),Always,Poor
+Female,52,Office Worker,No,No,No,Quiet,5,1,7,2,0,Medium (3 - 4),Always,Poor
+Female,54,Retired,No,No,No,Moderate Noise,6,22,5,1,2,Medium (3 - 4),Sometimes,Good
+Female,54,Retired,Yes,No,No,Quiet,4,23,5,5,1,Medium (3 - 4),Sometimes,Poor
+Female,23,Student,Yes,No,Yes,Moderate Noise,8,2,11,2,3,Medium (3 - 4),Sometimes,Good
+Female,58,Office Worker,Yes,No,No,Quiet,5,23,4,1,1,Medium (3 - 4),Always,Good
+Female,18,Office Worker,Yes,No,No,Quiet,7,23,6,0,0,High (5 - 6),Always,Average
+Female,27,Office Worker,Yes,No,No,Moderate Noise,8,22,6,3,2,Medium (3 - 4),Always,Good
+Female,21,Student,Yes,No,No,Moderate Noise,7,23,7,1,3,Medium (3 - 4),Always,Average
+Male,21,Student,Yes,No,Yes,Quiet,4,0,4,1,5,High (5 - 6),Always,Poor
+Female,32,Self-Employed,Yes,Yes,Yes,Quiet,7,2,10,1,1,High (5 - 6),Always,Average
+Female,19,Student,No,No,No,Moderate Noise,7,2,9,1,2,Medium (3 - 4),Often,Poor
+Female,54,Office Worker,Yes,No,No,Quiet,6,23,6,3,0,High (5 - 6),Always,Poor
+Female,33,Self-Employed,Yes,No,No,Quiet,7,0,7,2,0,Medium (3 - 4),Always,Excellent
+Female,19,Student,Yes,No,No,Moderate Noise,9,2,11,0,5,High (5 - 6),Always,Average
+Female,30,Office Worker,Yes,No,No,Quiet,7,11,6,1,0,Very High (7+),Always,Average
+Female,44,Office Worker,Yes,No,Yes,Quiet,5,23,5,0,0,Medium (3 - 4),Often,Average
+Female,40,Self-Employed,Yes,No,No,Moderate Noise,6,7,14,2,0,Medium (3 - 4),Always,Average
+Male,22,Student,Yes,No,Yes,Moderate Noise,6,0,7,0,0,Low (1 - 2),Always,Average
+Female,28,Office Worker,No,No,No,Moderate Noise,6,0,8,3,0,Medium (3 - 4),Always,Average
+Male,46,Retired,No,No,No,Moderate Noise,6,22,4,2,1,Medium (3 - 4),Often,Good
+Female,20,Student,No,No,Yes,Moderate Noise,6,6,12,2,0,Very High (7+),Always,Average
+Female,35,Office Worker,Yes,No,No,Quiet,8,22,6,1,1,Medium (3 - 4),Always,Average
+Female,41,Office Worker,Yes,No,Yes,Moderate Noise,6,23,5,3,4,Very High (7+),Always,Average
+Female,21,Student,Yes,No,Yes,Moderate Noise,7,1,8,1,0,High (5 - 6),Often,Average
+Female,40,Office Worker,Yes,No,No,Quiet,7,22,6,2,0,Medium (3 - 4),Often,Average
+Male,30,Office Worker,Yes,No,No,Moderate Noise,6,23,4,3,0,Very High (7+),Always,Average
+Male,39,Retired,Yes,No,Yes,Moderate Noise,5,23,7,3,3,Medium (3 - 4),Often,Average
+Female,21,Student,Yes,No,Yes,Moderate Noise,7,3,9,1,3,Medium (3 - 4),Always,Average
+Female,45,Office Worker,Yes,No,Yes,Quiet,8,22,6,2,0,Medium (3 - 4),Always,Good
+Female,19,Student,Yes,No,No,Moderate Noise,7,8,15,2,3,High (5 - 6),Always,Average
+Female,20,Student,No,No,Yes,Moderate Noise,6,0,7,3,3,Very High (7+),Always,Average
+Female,19,Student,Yes,No,Yes,Moderate Noise,6,2,8,0,0,Very High (7+),Always,Good
+Male,43,Self-Employed,Yes,No,Yes,Quiet,7,23,6,2,2,Low (1 - 2),Always,Good
+Female,55,Shift Worker,Yes,No,No,Moderate Noise,5,23,4,2,2,Medium (3 - 4),Sometimes,Poor
+Male,56,Office Worker,Yes,No,Yes,Moderate Noise,5,23,5,1,1,Low (1 - 2),Always,Average
+Female,41,Office Worker,Yes,No,No,Moderate Noise,5,22,4,1,5,High (5 - 6),Always,Average
+Male,56,Office Worker,Yes,No,Yes,Moderate Noise,6,11,5,1,1,Low (1 - 2),Often,Average
+Male,32,Office Worker,No,No,No,Quiet,7,21,4,2,2,Medium (3 - 4),Often,Average
+Male,39,Self-Employed,Yes,No,Yes,Moderate Noise,7,23,6,0,0,Medium (3 - 4),Often,Average
+Male,29,Office Worker,Yes,Yes,Yes,Moderate Noise,8,22,6,0,3,High (5 - 6),Often,Average
+Female,41,Office Worker,No,No,No,Moderate Noise,7,10,5,2,0,High (5 - 6),Always,Average
+Female,32,Office Worker,Yes,No,Yes,Quiet,6,23,6,2,3,High (5 - 6),Always,Average
+Male,39,Office Worker,Yes,No,Yes,Moderate Noise,5,0,5,2,0,Medium (3 - 4),Always,Average
+Male,54,Office Worker,Yes,No,No,Quiet,7.5,9,4.3,1,2,Medium (3 - 4),Often,Good
+Female,54,Retired,Yes,No,No,Quiet,6,23,6,2,1,Medium (3 - 4),Often,Average
+Female,19,Student,Yes,No,Yes,Moderate Noise,6,6,15,0,0,High (5 - 6),Always,Average
+Female,54,Office Worker,Yes,No,No,Quiet,7,22,5.3,2,0,Medium (3 - 4),Always,Average
+Female,57,Office Worker,Yes,No,No,Quiet,8,22,6,3,3,High (5 - 6),Often,Good
+Female,20,Student,Yes,No,No,Quiet,8,1,10,0,3,Medium (3 - 4),Always,Average
+Female,52,Retired,Yes,No,No,Quiet,8,10,7,2,4,Medium (3 - 4),Often,Average
+Female,41,Office Worker,Yes,No,No,Quiet,7,1,8.3,2,1,Very High (7+),Always,Average
+Female,26,Office Worker,Yes,No,Yes,Quiet,6,22,6.15,2,0,Medium (3 - 4),Always,Average
+Female,31,Office Worker,No,No,No,Quiet,6,22,7,1,2,Medium (3 - 4),Often,Good
+Male,29,Office Worker,Yes,No,No,Moderate Noise,6,22,7,2,3,High (5 - 6),Always,Average
+Male,19,Student,Yes,No,No,Quiet,7,24,8,0,5,Medium (3 - 4),Often,Good
+Male,42,Office Worker,Yes,No,No,Moderate Noise,8,21,5,1,3,Medium (3 - 4),Often,Good
+Female,27,Office Worker,Yes,No,No,Moderate Noise,6,23,5,2,1,Medium (3 - 4),Always,Average
+Female,42,Shift Worker,Yes,No,No,Quiet,24,23,7,1,2,Medium (3 - 4),Always,Good
+Female,22,Shift Worker,Yes,No,Yes,Moderate Noise,10,22,8,2,5,High (5 - 6),Often,Good
+Female,20,Student,Yes,No,Yes,Quiet,8,3,11,0,1,Very High (7+),Always,Average
+Male,19,Student,Yes,No,Yes,Quiet,8,1,9,0,2,Medium (3 - 4),Always,Average
+Female,21,Student,No,No,No,Quiet,5,22,4,0,2,Low (1 - 2),Always,Average
+Male,41,Office Worker,Yes,No,Yes,Quiet,7,22,5,0,4,Low (1 - 2),Often,Good
+Female,18,Student,Yes,No,No,Quiet,7,1,9,0,0,Medium (3 - 4),Always,Excellent
+Male,19,Student,Yes,No,No,Moderate Noise,7,1,9.3,0,2,Medium (3 - 4),Often,Good
+Male,34,Office Worker,Yes,No,No,Moderate Noise,7,1,8,2,0,High (5 - 6),Always,Average
+Male,22,Student,No,No,No,Quiet,6,24,7,1,2,Low (1 - 2),Rarely,Good
+Prefer not to say,20,Student,No,No,Yes,Quiet,8,8,15,4,0,Very High (7+),Always,Poor
+Female,28,Office Worker,No,No,No,Quiet,7,22,6,2,0,Medium (3 - 4),Always,Good
+Male,32,Office Worker,Yes,No,Yes,Quiet,6,23,8,0,0,Low (1 - 2),Often,Average
+Female,19,Student,Yes,No,No,Moderate Noise,6,0,5,2,0,Medium (3 - 4),Always,Good
+Male,16,Student,Yes,No,No,Moderate Noise,9,20,6,2,3,Medium (3 - 4),Often,Good
+Male,45,Office Worker,Yes,No,Yes,Quiet,6,0,6,1,3,Medium (3 - 4),Sometimes,Average
+Female,41,Shift Worker,Yes,No,No,Moderate Noise,3,14,17,3,3,Low (1 - 2),Always,Poor
+Female,28,Self-Employed,Yes,No,Yes,Moderate Noise,7,1,10,1,5,Medium (3 - 4),Always,Average
+Male,20,Student,Yes,No,Yes,Noisy,10,11,8,1,2,Medium (3 - 4),Rarely,Average
+Female,19,Student,Yes,Yes,No,Moderate Noise,8,9,6,2,3,High (5 - 6),Never,Poor
+Female,22,Office Worker,Yes,No,No,Noisy,7,12,7,1,1,Low (1 - 2),Never,Good
+Prefer not to say,22,Student,Yes,No,No,Moderate Noise,8,5,12.3,0,3,High (5 - 6),Often,Good
+Male,21,Office Worker,Yes,No,Yes,Moderate Noise,9,1,8,3,0,Low (1 - 2),Sometimes,Good
+Male,20,Self-Employed,No,No,Yes,Noisy,8,2,10,2,0,High (5 - 6),Often,Poor
+Female,25,Shift Worker,No,No,No,Noisy,8,12,7,1,1,Low (1 - 2),Never,Average
+Male,28,Office Worker,Yes,Yes,No,Moderate Noise,7,3,10,1,0,Medium (3 - 4),Rarely,Good
+Male,22,Self-Employed,Yes,Yes,Yes,Quiet,6,2,8,0,1,Low (1 - 2),Sometimes,Average
+Male,25,Office Worker,Yes,Yes,No,Quiet,8,1,8,2,3,Low (1 - 2),Often,Average
+Male,30,Self-Employed,Yes,Yes,Yes,Noisy,7,21,6,1,0,Medium (3 - 4),Never,Poor
+Male,24,Office Worker,Yes,Yes,No,Quiet,7,3,10,1,0,Medium (3 - 4),Never,Poor
+Male,21,Office Worker,Yes,No,No,Moderate Noise,8,21,5,2,2,Low (1 - 2),Never,Average
+Male,27,Shift Worker,No,No,No,Noisy,8,22,6,3,1,High (5 - 6),Sometimes,Good
+Male,20,Office Worker,Yes,Yes,No,Noisy,7,23,7,1,1,Low (1 - 2),Never,Poor
