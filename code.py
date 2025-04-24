@@ -57,7 +57,8 @@ for name, model in models.items():
 
 # Print results
 for result in results:
-    print(f"\n🔍 Model: {result['Model']}")
+    print(f"\n Model: {result['Model']}")
+    print(f"==============================")
     print(f"  Accuracy: {result['Accuracy']:.4f}")
     print(f"  Precision: {result['Precision']:.4f}")
     print(f"  Recall: {result['Recall']:.4f}")
