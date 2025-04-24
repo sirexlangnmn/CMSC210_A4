@@ -1,0 +1,53 @@
+/var/www/html/python_study/CMSC210_A4/solis.py:51: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+/var/www/html/python_study/CMSC210_A4/solis.py:75: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+/var/www/html/python_study/CMSC210_A4/solis.py:101: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+/var/www/html/python_study/CMSC210_A4/solis.py:112: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+Decision Tree Classification Report:
+              precision    recall  f1-score   support
+
+        Poor       0.00      0.00      0.00         5
+     Average       0.61      0.88      0.72        25
+        Good       0.50      0.27      0.35        15
+   Excellent       0.00      0.00      0.00         0
+
+    accuracy                           0.58        45
+   macro avg       0.28      0.29      0.27        45
+weighted avg       0.51      0.58      0.52        45
+
+/var/www/html/python_study/CMSC210_A4/solis.py:131: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+k-Nearest Neighbors Classification Report:
+              precision    recall  f1-score   support
+
+        Poor       0.00      0.00      0.00         5
+     Average       0.54      0.76      0.63        25
+        Good       0.29      0.13      0.18        15
+   Excellent       0.00      0.00      0.00         0
+
+    accuracy                           0.47        45
+   macro avg       0.21      0.22      0.20        45
+weighted avg       0.40      0.47      0.41        45
+
+/var/www/html/python_study/CMSC210_A4/solis.py:144: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+Naive Bayes Classification Report:
+              precision    recall  f1-score   support
+
+        Poor       0.25      0.40      0.31         5
+     Average       0.62      0.72      0.67        25
+        Good       0.50      0.27      0.35        15
+   Excellent       0.00      0.00      0.00         0
+
+    accuracy                           0.53        45
+   macro avg       0.34      0.35      0.33        45
+weighted avg       0.54      0.53      0.52        45
+
+Classifier Performance Comparison:
+Decision Tree Accuracy: 0.58
+k-Nearest Neighbors Accuracy: 0.47
+Naive Bayes Accuracy: 0.53
+Best Performer: Decision Tree

@@ -1,0 +1,60 @@
+==================================================
+ Evaluating Model: Decision Tree
+Decision Tree Classification Report:
+
+              precision    recall  f1-score   support
+
+        Poor       0.25      0.17      0.20         6
+     Average       0.45      0.43      0.44        23
+        Good       0.21      0.25      0.23        16
+   Excellent       0.00      0.00      0.00         0
+
+    accuracy                           0.33        45
+   macro avg       0.23      0.21      0.22        45
+weighted avg       0.34      0.33      0.34        45
+
+==================================================
+ Evaluating Model: k-Nearest Neighbors
+k-Nearest Neighbors Classification Report:
+
+              precision    recall  f1-score   support
+
+        Poor       0.00      0.00      0.00         6
+     Average       0.47      0.70      0.56        23
+        Good       0.33      0.19      0.24        16
+   Excellent       0.00      0.00      0.00         0
+
+    accuracy                           0.42        45
+   macro avg       0.20      0.22      0.20        45
+weighted avg       0.36      0.42      0.37        45
+
+==================================================
+ Evaluating Model: Naive Bayes
+/var/www/html/python_study/CMSC210_A4/venv/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1565: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 in labels with no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Naive Bayes Classification Report:
+
+              precision    recall  f1-score   support
+
+        Poor       0.17      0.17      0.17         6
+     Average       0.53      0.83      0.64        23
+        Good       0.00      0.00      0.00        16
+   Excellent       0.00      0.00      0.00         0
+
+    accuracy                           0.44        45
+   macro avg       0.17      0.25      0.20        45
+weighted avg       0.29      0.44      0.35        45
+
+==================================================
+ Model Performance Summary Table:
++---------------------+------------+-------------+----------+------------+
+| Model               |   Accuracy |   Precision |   Recall |   F1-Score |
++=====================+============+=============+==========+============+
+| Decision Tree       |     0.3333 |      0.3405 |   0.3333 |     0.3351 |
++---------------------+------------+-------------+----------+------------+
+| k-Nearest Neighbors |     0.4222 |      0.359  |   0.4222 |     0.3723 |
++---------------------+------------+-------------+----------+------------+
+| Naive Bayes         |     0.4444 |      0.292  |   0.4444 |     0.3514 |
++---------------------+------------+-------------+----------+------------+
+
+ Best Model: Naive Bayes with Accuracy: 0.4444
